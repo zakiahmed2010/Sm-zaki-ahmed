@@ -1,5 +1,5 @@
-# Ruby On Rils Demo
+# Ruby on rails demo
+## IT entrepreneurship
+### BLog project	
 
-## IT ENTREPRENEURSHIP
 
-### BL0G PROJECT
